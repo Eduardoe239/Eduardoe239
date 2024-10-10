@@ -27,4 +27,4 @@
 
 ## 🤝 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lu%C3%ADs-eduardo-205a80329/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduardo_e239)

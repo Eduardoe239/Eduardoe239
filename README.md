@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Luís Eduardo 👋
 
-<!--
-**Eduardoe239/Eduardoe239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Eduardoe239?label=Follow&style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Eduardoe239?label=Stars&style=social)
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Técnico em Informática.
+- 💻 Desenvolvedor em JavaScript, Python, HTML5, CSS3 e Raspberry PI.
+- 🌱 Atualmente aprendendo a desenvolver Inteligências Artificiais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+## 🌟 Projetos Destacados
+- [**Projeto 1**](link_projeto_1): Descrição breve do projeto.
+- [**Projeto 2**](link_projeto_2): Descrição breve do projeto.
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardoe239&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoe239&layout=compact&theme=tokyonight" />
+</p>
+
+## 🤝 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lu%C3%ADs-eduardo-205a80329/)
+
